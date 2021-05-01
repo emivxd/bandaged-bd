@@ -1,0 +1,35 @@
+.userPopout-3XzG_A {
+	--user-popout-position: center;
+}
+.root-SR8cQa [data-user-id="812235097881182240"],
+.userPopout-3XzG_A [data-user-id="812235097881182240"] {
+	--user-background: url('https://i.imgur.com/hwl4gqT.gif');
+}
+
+
+
+:root {
+  --usrbg-modal-x-offset:-34px; /*Distance from the avatar container to the edge of the modal (x)*/
+  --usrbg-modal-y-offset:-20px; /*Distance from the avatar container to the edge of the modal (y)*/
+  --usrbg-modal-width:600px; /*Maximum width of modal*/
+  --usrbg-modal-height:600px; /*Maximum height of modal*/
+}
+.header-QKLPzZ .wrapper-3t9DeA::after {
+  content:'';
+  position:absolute;
+  top:var(--usrbg-modal-x-offset);
+  left:var(--usrbg-modal-y-offset);
+  width:var(--usrbg-modal-width);
+  height: var(--usrbg-modal-height);
+  opacity:.5;
+  pointer-events:none;
+  background: var(--user-background) center/cover no-repeat;
+  -webkit-mask: linear-gradient(black, transparent 80%);
+}
+
+.headerInfo-30uryT,
+.tabBarItem-1b8RUP,
+.activity-1ythUs {
+  z-index:1;
+  position:relative;
+}
