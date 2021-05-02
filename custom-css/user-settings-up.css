@@ -1,0 +1,7 @@
+#app-mount .sidebar-2K8pFh {
+    background-color: var(--background-tertiary);
+    border-radius: var(--border-radius);
+    margin-left: calc(var(--separation-padding) * 2);
+    display: flex;
+    flex-direction: column-reverse;
+}
