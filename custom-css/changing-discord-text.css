@@ -1,0 +1,16 @@
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD {
+  width: auto;
+  height: 22px;
+  padding: 0 0 0 4px;
+  line-height: 22px;
+  font-size: 0.925em;
+  color: var(--text-normal); }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before, .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
+    position: relative;
+    width: auto;
+    height: 22px; }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
+    content: "This CSS Changes DISCORD Text.";
+    font-weight: 700; }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD svg {
+    display: none; }
