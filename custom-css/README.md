@@ -1,3 +1,5 @@
+### Changing Discord Text
+![](https://emivxd.github.io/bandaged-bd/images/Screenshot_5.png)
 ### Private Popup
 ![](https://emivxd.github.io/bandaged-bd/images/Screenshot_2.png)
 ### Private Profile
